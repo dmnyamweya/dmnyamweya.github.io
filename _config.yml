@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dennis Nyamweya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cloud & Network Security Engineer | Infrastructure Optimizer | Problem Solver."
+  bio    : "Cloud and Network Security Engineer focused on resilient architectures, threat mitigation, and automating defensive solutions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
