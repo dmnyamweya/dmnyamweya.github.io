@@ -19,4 +19,4 @@ I'm an ICT graduate from Maseno University with a passion for network infrastruc
 - Implemented cost-saving virtualization solutions
 - Passionate about home lab networking and tech blogging
 
-[Download My Resume](/assets/Dennis_Makori_CV.pdf){: .btn .btn--primary}
+[Download My Resume](/assets/images/Dennis_Makori_CV.pdf){: .btn .btn--primary}
