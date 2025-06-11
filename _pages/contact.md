@@ -7,7 +7,7 @@ author_profile: true
 
 ## Get In Touch
 
-- **Email:** [denisnyamweya813@gmail.com](mailto:denisnyamweya813@gmail.com)
+- **Email:** [d3nnoh123@gmail.com](mailto:denisnyamweya813@gmail.com)
 - **Phone:** +254 711 644 209
 - **LinkedIn:** [linkedin.com/in/dnyamweya](https://www.linkedin.com/in/dnyamweya)
 - **GitHub:** [github.com/yourusername](https://github.com/yourusername)
